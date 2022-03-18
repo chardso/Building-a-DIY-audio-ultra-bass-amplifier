@@ -1,4 +1,4 @@
-Materials 
+# Materials 
 - Transistor TDA2030 
 - capacitor 16v470uf
 - resistor 330ohms 2w
