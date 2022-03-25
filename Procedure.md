@@ -4,5 +4,6 @@
 ![](Images/tyingTDA2030.png) 
 ![](Images/Applysolder.png)
 - solder the diode 1N4148 with the negative on the second terminal of the TDA 2030 and the positive on the second terminal from the right,same procedure repeated for second diode.
+![](Images/solderdiode1N4148.png)
 
 
