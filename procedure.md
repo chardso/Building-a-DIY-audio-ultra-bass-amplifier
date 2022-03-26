@@ -10,4 +10,5 @@
 - solder capacitor 2A104j,one on the second terminal of TDA2030 from the right and the other on the second terminal of TDA2030 also from the right
 ![](Images/solder2a104.png)
 - solder resistor 100k,one on the the first terminal of the first TDA2030 and the other one on the first terminal of TDA2030 from the left
+![](Images/resistor100k.png)
 
