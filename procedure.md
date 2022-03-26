@@ -30,3 +30,4 @@
 - The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
 - 270ohm resistor soldered on the positive of the capacitor 50v,0.1uf and the other terminal on the 2A104j,first capacitor from the left.
 ![](Images/270ohmresistor.png)
+- capacitor 25v,47uf ,the negative soldered on the jumper wire and the experiment is turned upside and the positive is left hanging
