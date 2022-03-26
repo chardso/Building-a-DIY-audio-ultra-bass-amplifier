@@ -35,6 +35,7 @@
 - 2A102j capacitor,one terminal soldered on there side of the copper wire and the other terminal left hanging in air
 ![](Images/2A102jcapacitor.png)
 - Another copper wire soldered on the hanging terminal of 2A102j capacitor and the other terminal on the second of the first TDA2030 on the second terminal from the right when the experiment is turned upside down
+![](Images/4thcopperwire.png)
 - cross check the contacts that may lead to short circuit
 ![](Images/crosscheck.png)
 - audio line,the positive are combined together and negative also combined
