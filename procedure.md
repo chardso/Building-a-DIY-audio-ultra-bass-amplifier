@@ -21,3 +21,4 @@
 ![](Images/solderthecopperjrs.png)
 - The overlapping terminals and copper wire are cut to obtain a uniform level
 ![](Images/cutoverlap.png)
+- Diode 3A,the negative soldered on the positive of the diode 1N4148 and the positive soldered on the negative of the second diode 1N4148.
