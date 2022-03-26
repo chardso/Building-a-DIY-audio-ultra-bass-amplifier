@@ -18,3 +18,4 @@
 - 470ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one one the 2A104j capacitor
 ![](Images/470ohmresistor.png)
 - jumper wire or copper wire soldered on all resistors.
+![](Images/solderthecopperjrs.png)
