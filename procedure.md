@@ -8,5 +8,6 @@
 - solder a resistor 47k on the second terminal of TDA2030 and same applies to the second TDA2030 on the right
 ![](Images/Solderresistor47k.png)
 - solder capacitor 2A104j,one on the second terminal of TDA2030 from the right and the other on the second terminal of TDA2030 also from the right
+![](Images/solder2a104.png)
 
 
