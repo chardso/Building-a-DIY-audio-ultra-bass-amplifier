@@ -32,3 +32,4 @@
 ![](Images/270ohmresistor.png)
 - capacitor 25v,47uf ,the negative soldered on the jumper wire and the experiment is turned upside and the positive is left hanging
 ![](Images/capacitor25v47uf.png)
+- 2A102j capacitor,one terminal soldered on there side of the copper wire and the other terminal left hanging in air
