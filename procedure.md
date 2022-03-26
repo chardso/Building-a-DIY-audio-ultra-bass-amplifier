@@ -19,3 +19,4 @@
 ![](Images/470ohmresistor.png)
 - jumper wire or copper wire soldered on all resistors.
 ![](Images/solderthecopperjrs.png)
+- The overlapping terminals and copper wire are cut to obtain a uniform level
