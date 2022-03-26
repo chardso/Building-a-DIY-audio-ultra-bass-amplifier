@@ -23,3 +23,4 @@
 ![](Images/cutoverlap.png)
 - Diode 3A,the negative soldered on the positive of the diode 1N4148 and the positive soldered on the negative of the second diode 1N4148.
 ![](Images/diode3A.png)
+- The second copper wire soldered on the first terminal of the TDA2030 from the left and the other terminal on the first terminal of the second TDA2030
