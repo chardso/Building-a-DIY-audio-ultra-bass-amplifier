@@ -16,4 +16,4 @@
 - 100ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one on the first 2A104j capacitor.
 ![](Images/100ohmresistor.png)
 - 470ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one one the 2A104j capacitor
-
+![](Images/470ohmresistor.png)
