@@ -26,4 +26,5 @@
 - The second copper wire soldered on the first terminal of the TDA2030 from the left and the other terminal on the first terminal of the second TDA2030
 ![](Images/Anothercopperwire.png)
 - 104j,630v capacitors,one soldered on the first terminal of TDA2030and second terminal soldered on the neutral terminal where the coper wire is soldered.the second 104j,630v capacitor soldered on the terminal of 2A104j capacitor and resistor 470ohms and the second terminal on the first terminal of the TDA2030 where the copper wire is soldered
+![](Images/104j630v.png)
 - The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
