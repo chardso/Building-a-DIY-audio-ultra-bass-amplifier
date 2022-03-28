@@ -48,3 +48,13 @@
 - provide an audio source for example phone or any other audio system that uses a big pin.
 - then insert the audio line into the audio source,then play music, enjoy your ultra bass amplifier
 # Experiment two
+## materials
+- capacitor 16v,470uf
+- transistor TDA 2030
+- alluminium shock absorber
+- resistor 330n,2w
+- resistor 1k,2w
+- battery 12v,7AH
+- power line
+- audio line
+-dropper 100n,5w
