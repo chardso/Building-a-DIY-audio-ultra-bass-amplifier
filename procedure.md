@@ -47,3 +47,4 @@
 ![](Images/battery12v7AH.jpg)
 - provide an audio source for example phone or any other audio system that uses a big pin.
 - then insert the audio line into the audio source,then play music, enjoy your ultra bass amplifier
+# Experiment two
