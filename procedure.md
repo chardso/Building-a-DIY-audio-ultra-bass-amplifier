@@ -42,6 +42,7 @@
 ![](Images/positiveconegco.png)
 - the positives are soldered on the first terminal of the TDA2030 where the 104j,630v capacitor is soldered and the negatives on the copper wire where the 2A102j capacitor is soldered
 - power line, negative on the second copper wire on the TDA2030 when ur expriement is upright and the positive on the first copper wire on the first terminal of the TDA2030 on ur right.
+![](Images/powerline.png)
 - speaker 🔊 negative soldered on the negative on the negative of the 3A diode and the positive on the second terminal of the TDA2030 when the experiment is turned upside down from your left on the same point where the positive of the diode 1N4148 is soldered
 - check for contact joints before connecting to a 12v,7AH power.
 ![](Images/battery12v7AH.jpg)
