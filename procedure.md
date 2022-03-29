@@ -60,3 +60,6 @@
 - power line
 - audio line
 -dropper 100n,5w
+# procedure
+- tie TDA2030 on the alluminium shock absorber
+- apply soldering wire on its terminals
