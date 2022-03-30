@@ -63,3 +63,4 @@
 # procedure
 - tie TDA2030 on the alluminium shock absorber
 - apply soldering wire on its terminals
+- solder the negative terminal of the capacitor 16v,470uf on the first terminal of the TDA from your left
