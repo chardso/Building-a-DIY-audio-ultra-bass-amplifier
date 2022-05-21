@@ -27,6 +27,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/crosscheck.png)
 ![](Images/positiveconegco.png)
 ![](Images/solderaudioline.png)
+![](Images/powerline.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
