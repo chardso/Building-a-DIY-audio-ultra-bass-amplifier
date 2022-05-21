@@ -62,7 +62,11 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/diode3A.png)
 
+- The second copper wire soldered on the first terminal of the TDA2030 from the left and the other terminal on the first terminal of the second TDA2030
+
 ![](Images/Anothercopperwire.png)
+
+
 ![](Images/104j630v.png)
 ![](Images/270ohmresistor.png)
 ![](Images/capacitor25v47uf.png)
