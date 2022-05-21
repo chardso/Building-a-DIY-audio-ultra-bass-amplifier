@@ -38,7 +38,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/resistor100k.png)
 
+- solder capacitor 50v,0.1uf,the negative soldered on the second terminal of TDA2030 and the second one also the negative soldered on the second terminal of the TDA2030 from the left
+
 ![](Images/50v0.1uf.png)
+
 ![](Images/100ohmresistor.png)
 ![](Images/470ohmresistor.png)
 ![](Images/solderthecopperjrs.png)
