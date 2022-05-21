@@ -6,9 +6,6 @@ The person practicing DIY audio will make it by him/herself
 
 ![](Images/crosscheck.png)
 
-For more on procedure ,read from the link 
-[Procedure](procedure.md)
-
 For materials, click>>> [materials](Material-details.csv)
 
 # step by step procedure of building an ultra bass amplifier. 
