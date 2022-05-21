@@ -8,4 +8,5 @@ For more on procedure ,read from the link
 For materials, click>>> [materials](Material-details.csv)
 
 
-For a short video click >>>[short test videos](Building-a-DIY-audio-ultra-bass-amplifier/Videos)
+For a short video click >>> 
+https://youtu.be/e7JTMurT4pM
