@@ -1,12 +1,19 @@
 # Building-a-DIY-audio-ultra-bass-amplifier
+
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker.
+
 The person practicing DIY audio will make it by him/herself
+
 ![](Images/crosscheck.png)
+
 For more on procedure ,read from the link 
 [Procedure](procedure.md)
+
 For materials, click>>> [materials](Material-details.csv)
 
+# step by step procedure of building an ultra bass amplifier. 
 
+## experiment one
 - Tie the transistor TDA 2030 on the alluminium piece.
 
 - Spray it's terminals left and right and apply soldering wire on each terminal.
