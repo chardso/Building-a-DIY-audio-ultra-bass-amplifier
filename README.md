@@ -54,7 +54,11 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/solderthecopperjrs.png)
 
+- The overlapping terminals and copper wire are cut to obtain a uniform level
+
 ![](Images/cutoverlap.png)
+
+
 ![](Images/diode3A.png)
 ![](Images/Anothercopperwire.png)
 ![](Images/104j630v.png)
