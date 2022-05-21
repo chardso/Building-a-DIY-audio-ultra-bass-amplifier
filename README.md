@@ -88,7 +88,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/anothercopwire3.png)
 
+- cross check the contacts that may lead to short circuit
+
 ![](Images/crosscheck.png)
+
 ![](Images/positiveconegco.png)
 ![](Images/solderaudioline.png)
 ![](Images/powerline.png)
