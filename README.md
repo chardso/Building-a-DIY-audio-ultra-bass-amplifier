@@ -32,6 +32,6 @@ For materials, click>>> [materials](Material-details.csv)
 - speaker 🔊 negative soldered on the negative on the negative of the 3A diode and the positive on the second terminal of the TDA2030 when the experiment is turned upside down from your left on the same point where the positive of the diode 1N4148 is soldered
 ![](Images/speakersolder1.png) ![](Images/speakersolder2.png)
 - check for contact joints before connecting to a 12v,7AH power
-
+![](Images/connectpowersce.png)
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
