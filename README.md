@@ -46,7 +46,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/100ohmresistor.png)
 
+- 470ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one one the 2A104j capacitor
+
 ![](Images/470ohmresistor.png)
+
 ![](Images/solderthecopperjrs.png)
 ![](Images/cutoverlap.png)
 ![](Images/diode3A.png)
