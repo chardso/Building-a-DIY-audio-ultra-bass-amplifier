@@ -6,6 +6,7 @@ For more on procedure ,read from the link
 [Procedure](procedure.md)
 
 For materials, click>>> [materials](Material-details.csv)
+![](Images/tyingTDA2030.png)
 
 ![](Images/TRIAL.jpg)
 For a short video click >>> 
