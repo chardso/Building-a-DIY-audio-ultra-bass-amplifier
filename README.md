@@ -13,7 +13,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/solder2a104.png)
 ![](Images/resistor100k.png)
 ![](Images/50v0.1uf.png)
-![](Images/TRIAL.jpg)
 ![](Images/100ohmresistor.png)
+
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
