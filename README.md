@@ -84,7 +84,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/2A102jcapacitor.png)
 
+- Another copper wire soldered on the hanging terminal of 2A102j capacitor and the other terminal on the second of the first TDA2030 on the second terminal from the right when the experiment is turned upside down
+
 ![](Images/anothercopwire3.png)
+
 ![](Images/crosscheck.png)
 ![](Images/positiveconegco.png)
 ![](Images/solderaudioline.png)
