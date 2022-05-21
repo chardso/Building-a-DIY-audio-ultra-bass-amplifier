@@ -92,7 +92,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/crosscheck.png)
 
+- audio line,the positive are combined together and negative also combined
+
 ![](Images/positiveconegco.png)
+
 ![](Images/solderaudioline.png)
 ![](Images/powerline.png)
 
