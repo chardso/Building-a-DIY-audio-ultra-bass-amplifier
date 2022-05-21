@@ -14,6 +14,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/resistor100k.png)
 ![](Images/50v0.1uf.png)
 ![](Images/100ohmresistor.png)
+![](Images/470ohmresistor.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
