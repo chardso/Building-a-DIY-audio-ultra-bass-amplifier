@@ -20,6 +20,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/diode3A.png)
 ![](Images/Anothercopperwire.png)
 ![](Images/104j630v.png)
+![](Images/270ohmresistor.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
