@@ -11,6 +11,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/solderdiode1N4148.png)
 ![](Images/Solderresistor47k.png)
 ![](Images/solder2a104.png)
+![](Images/resistor100k.png)
 ![](Images/TRIAL.jpg)
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
