@@ -50,7 +50,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/470ohmresistor.png)
 
+- jumper wire or copper wire soldered on all resistors.
+
 ![](Images/solderthecopperjrs.png)
+
 ![](Images/cutoverlap.png)
 ![](Images/diode3A.png)
 ![](Images/Anothercopperwire.png)
