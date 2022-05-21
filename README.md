@@ -17,6 +17,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/470ohmresistor.png)
 ![](Images/solderthecopperjrs.png)
 ![](Images/cutoverlap.png)
+![](Images/diode3A.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
