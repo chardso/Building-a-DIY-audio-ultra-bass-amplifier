@@ -21,6 +21,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/Anothercopperwire.png)
 ![](Images/104j630v.png)
 ![](Images/270ohmresistor.png)
+![](Images/capacitor25v47uf.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
