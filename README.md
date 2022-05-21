@@ -25,6 +25,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/2A102jcapacitor.png)
 ![](Images/anothercopwire3.png)
 ![](Images/crosscheck.png)
+![](Images/solderaudioline.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
