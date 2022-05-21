@@ -58,8 +58,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/cutoverlap.png)
 
+- Diode 3A,the negative soldered on the positive of the diode 1N4148 and the positive soldered on the negative of the second diode 1N4148.
 
 ![](Images/diode3A.png)
+
 ![](Images/Anothercopperwire.png)
 ![](Images/104j630v.png)
 ![](Images/270ohmresistor.png)
