@@ -34,7 +34,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/solder2a104.png)
 
+- solder resistor 100k,one on the the first terminal of the first TDA2030 and the other one on the first terminal of TDA2030 from the left
+
 ![](Images/resistor100k.png)
+
 ![](Images/50v0.1uf.png)
 ![](Images/100ohmresistor.png)
 ![](Images/470ohmresistor.png)
