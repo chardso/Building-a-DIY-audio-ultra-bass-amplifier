@@ -66,8 +66,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/Anothercopperwire.png)
 
+- 104j,630v capacitors,one soldered on the first terminal of TDA2030and second terminal soldered on the neutral terminal where the coper wire is soldered.the second 104j,630v capacitor soldered on the terminal of 2A104j capacitor and resistor 470ohms and the second terminal on the first terminal of the TDA2030 where the copper wire is soldered
 
 ![](Images/104j630v.png)
+
 ![](Images/270ohmresistor.png)
 ![](Images/capacitor25v47uf.png)
 ![](Images/2A102jcapacitor.png)
