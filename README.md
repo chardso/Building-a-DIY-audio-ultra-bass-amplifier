@@ -115,6 +115,8 @@ For materials, click>>> [materials](Material-details.csv)
 
 # Experiment two
 
+![](Images/TRIAL.jpg)
+
 ## materials
 - capacitor 16v,470uf
 - transistor TDA 2030
