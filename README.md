@@ -4,8 +4,13 @@ The person practicing DIY audio will make it by him/herself
 ![](Images/crosscheck.png)
 For more on procedure ,read from the link 
 [Procedure](procedure.md)
-
 For materials, click>>> [materials](Material-details.csv)
+
+
+- Tie the transistor TDA 2030 on the alluminium piece.
+
+- Spray it's terminals left and right and apply soldering wire on each terminal.
+
 ![](Images/tyingTDA2030.png)
 ![](Images/Applysolder.png)
 ![](Images/solderdiode1N4148.png)
