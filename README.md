@@ -80,7 +80,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/capacitor25v47uf.png)
 
+- 2A102j capacitor,one terminal soldered on there side of the copper wire and the other terminal left hanging in air
+
 ![](Images/2A102jcapacitor.png)
+
 ![](Images/anothercopwire3.png)
 ![](Images/crosscheck.png)
 ![](Images/positiveconegco.png)
