@@ -19,6 +19,7 @@ For materials, click>>> [materials](Material-details.csv)
 ![](Images/cutoverlap.png)
 ![](Images/diode3A.png)
 ![](Images/Anothercopperwire.png)
+![](Images/104j630v.png)
 
 For a short video click >>> 
 https://youtu.be/e7JTMurT4pM
