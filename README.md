@@ -76,8 +76,10 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/270ohmresistor.png)
 
+- capacitor 25v,47uf ,the negative soldered on the jumper wire and the experiment is turned upside and the positive is left hanging
 
 ![](Images/capacitor25v47uf.png)
+
 ![](Images/2A102jcapacitor.png)
 ![](Images/anothercopwire3.png)
 ![](Images/crosscheck.png)
