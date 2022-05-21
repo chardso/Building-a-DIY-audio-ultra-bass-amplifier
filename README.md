@@ -112,5 +112,30 @@ For materials, click>>> [materials](Material-details.csv)
 
 ![](Images/battery12v7AH.jpg)
 
-For a short video click >>> 
-https://youtu.be/e7JTMurT4pM
+- provide an audio source for example phone or any other audio system that uses a big pin.
+
+- then insert the audio line into the audio source,then play music, enjoy your ultra bass amplifier
+
+# Experiment two
+
+## materials
+- capacitor 16v,470uf
+- transistor TDA 2030
+- alluminium shock absorber
+- resistor 330n,2w
+- resistor 1k,2w
+- battery 12v,7AH
+- power line
+- audio line 
+- dropper 100n,5w
+- speaker 20-100ohms
+
+# procedure
+
+- tie TDA2030 on the alluminium shock absorber
+
+- apply soldering wire on its terminals
+
+- solder the negative terminal of the capacitor 16v,470uf on the first terminal of the TDA from your left
+
+For a short video click >>> https://youtu.be/e7JTMurT4pM
