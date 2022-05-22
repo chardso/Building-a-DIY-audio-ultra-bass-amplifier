@@ -6,6 +6,9 @@ DIY audio means "do it yourself"rather than buying apiece of possibly expensive 
 
 The person practicing DIY audio will make it by him/herself
 
+**I have worked on experiement two,but tested ,though there is need for improvement in sound quality and building a design for the box**
+
+
 ![](Images/crosscheck.png)
 
 For materials, click>>> [materials](Material-details.csv)
