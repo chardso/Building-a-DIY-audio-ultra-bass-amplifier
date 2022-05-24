@@ -1,4 +1,4 @@
-## <h1>welcome to my page</h1>
+<h1>building a diy audio ultra bass amplifier</h1>
 
 You can use the [editor on GitHub](https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/edit/chardso/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
