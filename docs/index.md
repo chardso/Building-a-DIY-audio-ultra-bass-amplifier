@@ -37,7 +37,9 @@ solder the diode 1N4148 with the negative on the second terminal of the TDA 2030
 <li/>
 
 <img src="solderdiode1N4148.png"/>
-
+<li>
+solder a resistor 47k on the second terminal of TDA2030 and same applies to the second TDA2030 on the right
+<li/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
