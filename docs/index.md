@@ -1,5 +1,5 @@
 
-<img src="wafela .jpg"/>
+<img src="wafela.jpg"/>
 
 <h1>building a diy audio ultra bass amplifier</h1>
 
