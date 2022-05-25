@@ -202,6 +202,7 @@ Experiment two
 </h2>
 
 <img src="TRIAL.jpg"/>
+<img src="battery12v7AH.jpg"/>
 
 <h3>
 materials
