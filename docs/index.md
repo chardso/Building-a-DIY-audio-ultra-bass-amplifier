@@ -1,13 +1,28 @@
 
 <img src="wafela.jpg"/>
 
+
+
 <h1>building a diy audio ultra bass amplifier</h1>
+
+
+
+
 
 <Paragraph>The project consists of two experiements;</paragraph>
 
 
+
+
+
+
 <li>
 using two transistors TDA 2030
+
+
+
+
+
 
 
 <li>
@@ -20,8 +35,6 @@ using one transistor TDA 2030
 <h2>
 Step by step procedure for experiments using two TDA2030 transistors
 <h2>
-
-
 
 <li>
 Tie the transistor TDA 2030 on the alluminium piece.
