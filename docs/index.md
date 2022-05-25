@@ -117,7 +117,7 @@ the positives are soldered on the first terminal of the TDA2030 where the 104j,6
 <img src="solderaudioline.png"/>
  <li>   
 power line, negative on the second copper wire on the TDA2030 when ur expriement is upright and the positive on the first copper wire on the first terminal of the TDA2030 on ur right
-
+<img src="connectpowersce.png"/>
  <li>   
 speaker loud_sound negative soldered on the negative on the negative of the 3A diode and the positive on the second terminal of the TDA2030 when the experiment is turned upside down from your left on the same point where the positive of the diode 1N4148 is soldered
   <li>  
