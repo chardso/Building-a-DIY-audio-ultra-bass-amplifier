@@ -44,6 +44,18 @@ solder a resistor 47k on the second terminal of TDA2030 and same applies to the 
 <li>
 solder capacitor 2A104j,one on the second terminal of TDA2030 from the right and the other on the second terminal of TDA2030 also from the right
 <img src="solder2a104.png"/>
+
+<li>
+solder resistor 100k,one on the the first terminal of the first TDA2030 and the other one on the first terminal of TDA2030 from the left
+
+
+
+
+
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
