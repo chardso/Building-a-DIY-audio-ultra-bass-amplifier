@@ -54,6 +54,9 @@ solder resistor 100k,one on the the first terminal of the first TDA2030 and the 
 solder capacitor 50v,0.1uf,the negative soldered on the second terminal of TDA2030 and the second one also the negative soldered on the second terminal of the TDA2030 from the left
 
 
+<li>
+100ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one on the first 2A104j capacitor
+
 
 
 
