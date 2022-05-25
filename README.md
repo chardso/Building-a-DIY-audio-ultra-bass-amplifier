@@ -74,6 +74,8 @@ For materials, click>>> [materials](Material-details.csv)
 
 - The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
 
+
+
 - 270ohm resistor soldered on the positive of the capacitor 50v,0.1uf and the other terminal on the 2A104j,first capacitor from the left.
 
 ![](Images/270ohmresistor.png)
@@ -88,7 +90,7 @@ For materials, click>>> [materials](Material-details.csv)
 
 - Another copper wire soldered on the hanging terminal of 2A102j capacitor and the other terminal on the second of the first TDA2030 on the second terminal from the right when the experiment is turned upside down
 
-![](Images/anothercopwire3.png)
+
 
 - cross check the contacts that may lead to short circuit
 
