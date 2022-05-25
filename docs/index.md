@@ -115,7 +115,7 @@ check for contact joints before connecting to a 12v,7AH power
 
  <li>   
 provide an audio source for example phone or any other audio system that uses a big pin.
-
+<img src="connectpowersce.png"/>
     
 <li>
 then insert the audio line into the audio source,then play music, enjoy your ultra bass amplifier
