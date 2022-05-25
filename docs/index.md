@@ -1,4 +1,6 @@
 <h1>building a diy audio ultra bass amplifier</h1>
+<button>The project consists of two experiements;</button>
+<h2>Step by step procedure for experiment two<h2>
 
 You can use the [editor on GitHub](https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/edit/chardso/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
