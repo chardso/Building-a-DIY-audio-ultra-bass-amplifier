@@ -1,5 +1,5 @@
 
-<>
+<img src=""/>
 
 <h1>building a diy audio ultra bass amplifier</h1>
 
