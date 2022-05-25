@@ -36,7 +36,6 @@ Spray it's terminals left and right and apply soldering wire on each terminal.
 solder the diode 1N4148 with the negative on the second terminal of the TDA 2030 and the positive on the second terminal from the right,same procedure repeated for second diode.
 <li/>
 
-
 <img src="solderdiode1N4148.png"/>
 
 
