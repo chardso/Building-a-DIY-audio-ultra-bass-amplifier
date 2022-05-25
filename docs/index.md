@@ -24,7 +24,7 @@ Tie the transistor TDA 2030 on the alluminium piece.
 
 <li>
 Spray it's terminals left and right and apply soldering wire on each terminal.
-</li>
+
 
 <img src="tyingTDA2030.png"/>
 
@@ -35,14 +35,16 @@ Spray it's terminals left and right and apply soldering wire on each terminal.
 <li>
 solder the diode 1N4148 with the negative on the second terminal of the TDA 2030 and the positive on the second terminal from the right,same procedure repeated for second diode.
 
-
 <img src="solderdiode1N4148.png"/>
+
 <li>
 solder a resistor 47k on the second terminal of TDA2030 and same applies to the second TDA2030 on the right
 
 <img src="Solderresistor47k.png"/>
+
 <li>
 solder capacitor 2A104j,one on the second terminal of TDA2030 from the right and the other on the second terminal of TDA2030 also from the right
+
 <img src="solder2a104.png"/>
 
 <li>
@@ -64,6 +66,7 @@ solder capacitor 50v,0.1uf,the negative soldered on the second terminal of TDA20
 470ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one one the 2A104j capacitor
 
 <img src="470ohmresistor.png"/>
+
 <li>
 jumper wire or copper wire soldered on all resistors.
 
@@ -71,6 +74,7 @@ jumper wire or copper wire soldered on all resistors.
 The overlapping terminals and copper wire are cut to obtain a uniform level
 
 <img src="cutoverlap.png"/>
+
 <li>
 Diode 3A,the negative soldered on the positive of the diode 1N4148 and the positive soldered on the negative of the second diode 1N4148.
 
@@ -83,7 +87,7 @@ The second copper wire soldered on the first terminal of the TDA2030 from the le
 
 <img src="104j630v.png"/>
 
- <li>   
+<li>   
 The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
 
 
@@ -94,8 +98,6 @@ The third copper wire soldered on the neutral terminal of TDA2030 and the second
 
 
 <li>   
-
-
 270ohm resistor soldered on the positive of the capacitor 50v,0.1uf and the other terminal on the 2A104j,first capacitor from the left.
 
 
@@ -123,7 +125,6 @@ Another copper wire soldered on the hanging terminal of 2A102j capacitor and the
 
 
 <li>    
-
 cross check the contacts that may lead to short circuit
 
 
@@ -179,7 +180,6 @@ speaker loud_sound negative soldered on the negative on the negative of the 3A d
 
 
 <li>  
-
 check for contact joints before connecting to a 12v,7AH power
 
 <img src="crosscheck.png"/>
@@ -198,44 +198,56 @@ provide an audio source for example phone or any other audio system that uses a 
 then insert the audio line into the audio source,then play music, enjoy your ultra bass amplifier
 
 <h2>
-
 Experiment two
 </h2>
+
 <img src="TRIAL.jpg"/>
+
 <h3>
 materials
 </h3>
- <li>   
+
+<li>   
 capacitor 16v,470uf
-  <li>  
+
+<li>  
 transistor TDA 2030
- <li>   
+
+<li>   
 alluminium shock absorber
-  <li>  
+
+<li>  
 resistor 330n,2w
-  <li>  
+
+<li>  
 resistor 1k,2w
- <li>   
+
+<li>   
 battery 12v,7AH
- <li>   
+
+<li>   
 power line
-   <li> 
+
+<li> 
 audio line
-   <li> 
+
+<li> 
 dropper 100n,5w
-   <li> 
+
+<li> 
 speaker 20-100ohms
 
 <h4>
 procedure
 </h4>
- <li>   
+
+<li>   
 tie TDA2030 on the alluminium shock absorber
 
-  <li>  
+<li>  
 apply soldering wire on its terminals
 
-  <li>  
+<li>  
 solder the negative terminal of the capacitor 16v,470uf on the first terminal of the TDA from your left
 
 
