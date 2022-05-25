@@ -63,6 +63,7 @@ solder capacitor 50v,0.1uf,the negative soldered on the second terminal of TDA20
 <li>
 470ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one one the 2A104j capacitor
 
+<img src="470ohmresistor.png"/>
 <li>
 jumper wire or copper wire soldered on all resistors.
 
