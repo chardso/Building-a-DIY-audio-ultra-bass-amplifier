@@ -1,26 +1,36 @@
 
 <img src="wafela.jpg"/>
 <h1>building a diy audio ultra bass amplifier</h1>
-<Paragraph>The project consists of two experiements;
+The project consists of two experiements;
+
 <li>
 using two transistors TDA 2030
+
 <li>
 using one transistor TDA 2030
+
 <h2>
 Step by step procedure for experiments using two TDA2030 transistors
 <h2>
+
 <li>
 Tie the transistor TDA 2030 on the alluminium piece.
+
 <li>
 Spray it's terminals left and right and apply soldering wire on each terminal.
+
 <img src="tyingTDA2030.png"/>
 <img src="Applysolder.png"/>
+
 <li>
 solder the diode 1N4148 with the negative on the second terminal of the TDA 2030 and the positive on the second terminal from the right,same procedure repeated for second diode.
+
 <img src="solderdiode1N4148.png"/>
+
 <li>
 solder a resistor 47k on the second terminal of TDA2030 and same applies to the second TDA2030 on the right
 <img src="Solderresistor47k.png"/>
+
 <li>
 solder capacitor 2A104j,one on the second terminal of TDA2030 from the right and the other on the second terminal of TDA2030 also from the right
 <img src="solder2a104.png"/>
@@ -52,6 +62,7 @@ The second copper wire soldered on the first terminal of the TDA2030 from the le
 <li>   
 The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
 <img src="anothercopwire3.png"/>
+
 <li>   
 270ohm resistor soldered on the positive of the capacitor 50v,0.1uf and the other terminal on the 2A104j,first capacitor from the left.
 <img src="270ohmresistor.png"/>
@@ -61,6 +72,7 @@ capacitor 25v,47uf ,the negative soldered on the jumper wire and the experiment 
 <li>   
 2A102j capacitor,one terminal soldered on there side of the copper wire and the other terminal left hanging in air
 <img src="2A102jcapacitor.png"/>
+
 <li>   
 Another copper wire soldered on the hanging terminal of 2A102j capacitor and the other terminal on the second of the first TDA2030 on the second terminal from the right when the experiment is turned upside down
 <li>    
@@ -69,6 +81,7 @@ cross check the contacts that may lead to short circuit
 <li>    
 audio line,the positive are combined together and negative also combined
 <img src="positiveconegco.png"/>
+
 <li>    
 the positives are soldered on the first terminal of the TDA2030 where the 104j,630v capacitor is soldered and the negatives on the copper wire where the 2A102j capacitor is soldered
 <img src="solderaudioline.png"/>
