@@ -1,6 +1,6 @@
 
 <img src="wafela.jpg"/>
-<h1>building a diy audio ultra bass amplifier</h1>
+<h1>building a DIY audio ultra bass amplifier</h1>
 The project consists of two experiements;
 
 <li>
