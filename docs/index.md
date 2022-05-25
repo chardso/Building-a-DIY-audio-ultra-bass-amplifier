@@ -83,6 +83,7 @@ The second copper wire soldered on the first terminal of the TDA2030 from the le
  <li>   
 The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
 
+<img src="anothercopwire3.png"/>
  <li>   
 270ohm resistor soldered on the positive of the capacitor 50v,0.1uf and the other terminal on the 2A104j,first capacitor from the left.
 
