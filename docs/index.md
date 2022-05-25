@@ -8,6 +8,9 @@ using two transistors TDA 2030
 using one transistor TDA 2030
 </li>
 
+
+
+
 <h2>
 Step by step procedure for experiment using two TDA 2030 transistors
 </h2>
