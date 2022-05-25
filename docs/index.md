@@ -1,10 +1,11 @@
 <h1>building a diy audio ultra bass amplifier</h1>
 
-<Paragraph>The project consists of two experiements;</paragraph>
+<Paragraph>The project consists of two experiements;
 
 <li>using two transistors TDA 2030</li>
 
 <li>using one transistor TDA 2030</li>
+
 
 <h2>Step by step procedure for experiment using two TDA 2030 transistors<h2>
 
