@@ -110,7 +110,7 @@ cross check the contacts that may lead to short circuit
 <li>    
 audio line,the positive are combined together and negative also combined
 
-
+<img src="positiveconegco.png"/>
 <li>    
 the positives are soldered on the first terminal of the TDA2030 where the 104j,630v capacitor is soldered and the negatives on the copper wire where the 2A102j capacitor is soldered
 
