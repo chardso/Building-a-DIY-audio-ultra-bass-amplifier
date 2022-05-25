@@ -18,6 +18,13 @@ using one transistor TDA 2030
 Step by step procedure for experiment using two TDA 2030 transistors
 </h2>
 
+<li>
+Tie the transistor TDA 2030 on the alluminium piece.
+</li>
+
+<li>
+Spray it's terminals left and right and apply soldering wire on each terminal.
+</li>
 You can use the [editor on GitHub](https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/edit/chardso/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
