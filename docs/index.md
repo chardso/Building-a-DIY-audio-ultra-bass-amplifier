@@ -62,6 +62,116 @@ solder capacitor 50v,0.1uf,the negative soldered on the second terminal of TDA20
 
 <li>
 470ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one one the 2A104j capacitor
+  
+
+
+    jumper wire or copper wire soldered on all resistors.
+
+    The overlapping terminals and copper wire are cut to obtain a uniform level
+
+    Diode 3A,the negative soldered on the positive of the diode 1N4148 and the positive soldered on the negative of the second diode 1N4148.
+
+    The second copper wire soldered on the first terminal of the TDA2030 from the left and the other terminal on the first terminal of the second TDA2030
+
+    104j,630v capacitors,one soldered on the first terminal of TDA2030and second terminal soldered on the neutral terminal where the coper wire is soldered.the second 104j,630v capacitor soldered on the terminal of 2A104j capacitor and resistor 470ohms and the second terminal on the first terminal of the TDA2030 where the copper wire is soldered
+
+    The third copper wire soldered on the neutral terminal of TDA2030 and the second terminal on the neutral terminal of the second TDA2030
+
+    270ohm resistor soldered on the positive of the capacitor 50v,0.1uf and the other terminal on the 2A104j,first capacitor from the left.
+
+    capacitor 25v,47uf ,the negative soldered on the jumper wire and the experiment is turned upside and the positive is left hanging
+
+    2A102j capacitor,one terminal soldered on there side of the copper wire and the other terminal left hanging in air
+
+    Another copper wire soldered on the hanging terminal of 2A102j capacitor and the other terminal on the second of the first TDA2030 on the second terminal from the right when the experiment is turned upside down
+
+    cross check the contacts that may lead to short circuit
+
+    audio line,the positive are combined together and negative also combined
+
+    the positives are soldered on the first terminal of the TDA2030 where the 104j,630v capacitor is soldered and the negatives on the copper wire where the 2A102j capacitor is soldered
+
+    power line, negative on the second copper wire on the TDA2030 when ur expriement is upright and the positive on the first copper wire on the first terminal of the TDA2030 on ur right
+
+    speaker loud_sound negative soldered on the negative on the negative of the 3A diode and the positive on the second terminal of the TDA2030 when the experiment is turned upside down from your left on the same point where the positive of the diode 1N4148 is soldered
+    check for contact joints before connecting to a 12v,7AH power
+
+    provide an audio source for example phone or any other audio system that uses a big pin.
+
+    then insert the audio line into the audio source,then play music, enjoy your ultra bass amplifier
+
+Experiment two
+
+materials
+
+    capacitor 16v,470uf
+    transistor TDA 2030
+    alluminium shock absorber
+    resistor 330n,2w
+    resistor 1k,2w
+    battery 12v,7AH
+    power line
+    audio line
+    dropper 100n,5w
+    speaker 20-100ohms
+
+procedure
+
+    tie TDA2030 on the alluminium shock absorber
+
+    apply soldering wire on its terminals
+
+    solder the negative terminal of the capacitor 16v,470uf on the first terminal of the TDA from your left
+
+For a short video click >>> https://youtu.be/e7JTMurT4pM
+
+        https://youtu.be/BDK9lVovWvU
+
+About
+
+DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker.The person practicing DIY audio will make it by him/herself
+Topics
+Resources
+Readme
+License
+MIT license
+Stars
+0 stars
+Watchers
+1 watching
+Forks
+2 forks
+Releases
+No releases published
+Create a new release
+Contributors 2
+
+    @chardso
+    chardso Wafela Andrew
+    @timmwille
+    timmwille Timm
+
+Environments 1
+
+    github-pages Active
+
+Languages
+
+    HTML 100.0% 
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
 
 
 
