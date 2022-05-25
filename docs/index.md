@@ -57,6 +57,8 @@ solder capacitor 50v,0.1uf,the negative soldered on the second terminal of TDA20
 <li>
 100ohm resistors,one soldered on the positive of the capacitor 50v,0.1uf and the second one on the first 2A104j capacitor
 
+<img src="50v0.1uf.png"/>
+
 
 
 
