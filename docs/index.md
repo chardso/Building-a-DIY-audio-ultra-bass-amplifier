@@ -2,9 +2,9 @@
 
 <Paragraph>The project consists of two experiements;</paragraph>
 
-- using two transistors TDA 2030</bold>
+<li>using two transistors TDA 2030</li>
 
-- using one transistor TDA 2030</bold>
+<li>using one transistor TDA 2030</li>
 
 <h2>Step by step procedure for experiment using two TDA 2030 transistors<h2>
 
