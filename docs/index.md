@@ -106,6 +106,7 @@ Another copper wire soldered on the hanging terminal of 2A102j capacitor and the
 <li>    
 cross check the contacts that may lead to short circuit
 
+<img src="crosscheck.png"/>
 <li>    
 audio line,the positive are combined together and negative also combined
 
