@@ -95,6 +95,7 @@ The third copper wire soldered on the neutral terminal of TDA2030 and the second
  <li>   
 capacitor 25v,47uf ,the negative soldered on the jumper wire and the experiment is turned upside and the positive is left hanging
 
+<img src="capacitor25v47uf.png"/>
  <li>   
 2A102j capacitor,one terminal soldered on there side of the copper wire and the other terminal left hanging in air
 
