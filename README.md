@@ -1,4 +1,4 @@
-![](Images/IMG_20220521_233536_408.jpg)
+![](docs/wafela.jpg)
 
 # Building-a-DIY-audio-ultra-bass-amplifier
 
