@@ -10,8 +10,12 @@ using two transistors TDA 2030
 using one transistor TDA 2030
 
 <h2>
-Step by step procedure for experiments using two TDA2030 transistors
-<h2>
+Step by step procedure for experiments
+</h2>
+<h3>
+Using two TDA2030 transistors
+</h3>
+
 
 <li>
 Tie the transistor TDA 2030 on the alluminium piece.
