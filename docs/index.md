@@ -1,6 +1,8 @@
 
+<h1 title="critical making"style="color:green">Building a DIY audio ultra bass amplifier</h1>
+
 <img src="wafela.jpg"/>
-<h1>building a DIY audio ultra bass amplifier</h1>
+
 The project consists of two experiements;
 
 <li>
