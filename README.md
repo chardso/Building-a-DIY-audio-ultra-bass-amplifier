@@ -144,5 +144,8 @@ For materials, click>>> [materials](Material-details.csv)
 
 - solder the negative terminal of the capacitor 16v,470uf on the first terminal of the TDA from your left
 
-For a short video click >>> https://youtu.be/e7JTMurT4pM
+For a short video click 
+
+>>> https://youtu.be/e7JTMurT4pM
+
 >>   https://youtu.be/BDK9lVovWvU
