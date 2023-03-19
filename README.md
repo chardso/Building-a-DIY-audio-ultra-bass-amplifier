@@ -158,6 +158,7 @@ For a short video click
 
 Made of a copper wire fixed on the metal rod with a wooden handle.
 
+![]()
 
 
 <h1>Skills achieved in this project and their application</h1>
