@@ -149,3 +149,25 @@ For a short video click
 >>> https://youtu.be/e7JTMurT4pM
 
 >>   https://youtu.be/BDK9lVovWvU
+
+
+<h1>local tools used Incase of in remote areas like refugee camps here</h1>
+
+
+<li>local soldering gun or iron</h1>
+
+Made of a copper wire fixed on the metal rod with a wooden handle.
+
+
+
+<h1>Skills achieved in this project and their application</h1>
+<h2>Soldering</h2>
+<li>Done to dry joints or joining electronic components to come up with a project</li>
+
+<li>Joining broken parts together or creating extensions by wires to ensure current outflow for e.g in vehicle dynamo</li>
+
+
+
+![](Images/IMG_20230319_030331_451.jpg)
+
+**Photo credit:** **wafela andrew** 
