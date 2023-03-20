@@ -167,8 +167,17 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 <li>Done to dry joints or joining electronic components to come up with a project</li>
 
 ![](Images/IMG_20230320_044447_830.jpg)
+
+**Examples of projects**
+<li>DIY amplifier</li>
+<li>Led lights</li>
+<li>Solar chargers</li>
+<li>Building fm/Am transmitters</li> and so many other hardware projects 
+
 ![](Images/IMG_20230319_030514_082.jpg)
+
 ![](Images/IMG_20230319_030523_814.jpg)
+
 <li>Joining broken parts together or creating extensions by wires to ensure current outflow for e.g in vehicle dynamo</li>
 
 
