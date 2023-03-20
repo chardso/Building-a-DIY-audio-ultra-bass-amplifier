@@ -176,8 +176,13 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 ***DIY amplifier prototype*** 
            
 ***Photo credit:Amboko Charles***
+
 <li>Led lights</li>
+
+![](Images/IMG_20230321_004106_364.jpg)
+
 <li>Solar chargers</li>
+
 <li>Building fm/Am transmitters</li> and so many other hardware projects 
 
 ![](Images/IMG_20230319_030514_082.jpg)
