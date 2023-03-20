@@ -164,10 +164,10 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 <h1>Skills achieved in this project and their application</h1>
 <h2>Soldering</h2>
 <li>Done to dry joints or joining electronic components to come up with a project</li>
-
+![](Images/IMG_20230320_044447_830.jpg)
 <li>Joining broken parts together or creating extensions by wires to ensure current outflow for e.g in vehicle dynamo</li>
 
-![](Images/IMG_20230319_030325_835.jpg)
+
 
 ![](Images/IMG_20230319_030331_451.jpg)
 
