@@ -159,7 +159,7 @@ For a short video click
 Made of a copper wire fixed on the metal rod with a wooden handle.
 
 ![](Images/IMG_20230319_030345_958.jpg)
-
+<li>Local portable charcoal metal/wire stove as shown above 
 
 <h1>Skills achieved in this project and their application</h1>
 <h2>Soldering</h2>
