@@ -173,6 +173,8 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 
 ![](Images/IMG_20230320_232957_697.jpg)
 
+![](Images/IMG_20230321_014305_574.jpg)
+
 ![](Images/IMG_20230321_013604_725.jpg)         
 ***DIY amplifier prototype*** 
            
