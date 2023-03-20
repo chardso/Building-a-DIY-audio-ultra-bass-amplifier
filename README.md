@@ -187,13 +187,16 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 
 <li>Building fm/Am transmitters</li> and so many other hardware projects 
 
-![](Images/IMG_20230321_011028_669.jpg)
+![](Images/IMG_20230321_011028_669.jpg) 
+![](Images/IMG_20230321_011038_121.jpg)
 
 <h2>Connecting the DIY amplifier prototype</h2> 
 
 ![](Images/IMG_20230319_030514_082.jpg)
 
+
 ![](Images/IMG_20230319_030523_814.jpg)
+
 
 <li>Joining broken parts together or creating extensions by wires to ensure current outflow for e.g in vehicle dynamo</li>
 
