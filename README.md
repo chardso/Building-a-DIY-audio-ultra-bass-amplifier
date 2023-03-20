@@ -183,7 +183,11 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 
 <li>Solar chargers</li>
 
+![](Images/IMG_20230321_010129_022.jpg)
+
 <li>Building fm/Am transmitters</li> and so many other hardware projects 
+
+<h2>Connecting the DIY amplifier prototype</h2> 
 
 ![](Images/IMG_20230319_030514_082.jpg)
 
