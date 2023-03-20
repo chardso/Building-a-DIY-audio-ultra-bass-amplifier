@@ -167,7 +167,7 @@ Made of a copper wire fixed on the metal rod with a wooden handle.
 
 <li>Joining broken parts together or creating extensions by wires to ensure current outflow for e.g in vehicle dynamo</li>
 
-
+![](Images/IMG_20230319_030325_835.jpg)
 
 ![](Images/IMG_20230319_030331_451.jpg)
 
