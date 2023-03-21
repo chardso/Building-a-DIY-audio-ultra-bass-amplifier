@@ -1,4 +1,4 @@
-Materials, description, Quantity 
+Materials, description, Quantity ,unit cost ,UG sh,USD $,total cost,UG sh,USD $
 Transistor,TDA 2030,10pieces
 Capacitor,16v/470uf,10pieces
 Resistors,330n/2watts,10pieces
