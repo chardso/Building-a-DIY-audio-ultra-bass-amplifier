@@ -3,6 +3,7 @@ Transistor,TDA 2030,10pieces,-,-,-,-,-,-
 Capacitor,16v/470uf,10piece,-,-,-,-,-,-
 Resistors,330n/2watts,10pieces,-,-,-,-,-,-
          ,1k/2watts,10pieces,-,-,-,-,-,-
+         ,47k      ,10pieces,_,_,_,_,_,_
 Ceramic capacitor,100n,05pieces,-,-,-,-,-,-
 Jumper wire,for looping current,05pieces,-,-,-,-,-,-
 Ceramic capacitor,100n/5watts,05pieces,-,-,-,-,-,-
@@ -13,3 +14,4 @@ Battery/accumulator,12v/7AH,03pieces,-,-,-,-,-,-
 Bass speaker,500n,05pieces,-,-,-,-,-,-
 Circuit boards,for implementation of the project after innovation,10pieces,-,-,-,-,-,-
 Soldering wire,for soldering the components on the circuit board,01roll,-,-,-,-,-,-
+
