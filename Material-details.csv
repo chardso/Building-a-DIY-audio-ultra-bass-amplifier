@@ -5,10 +5,11 @@ Resistors,330n/2watts,10pieces,-,-,-,-,-,-
          ,1k/2watts,10pieces,-,-,-,-,-,-
          ,47k      ,10pieces,_,_,_,_,_,_
          ,100k     ,10pieces,_,_,_,_,_,_
+         ,470ohm,  ,10pieces,_,_,_,_,_,_
 Ceramic capacitor,100n,05pieces,-,-,-,-,-,-
          ,2A104j,10pieces,_,_,_,_,_,_
          ,50v0.1uf,10pieces,_,_,_,_,_,_
-         ,470ohm, 10pieces,_,_,_,_,_,_
+         
 Jumper wire,for looping current,05pieces,-,-,-,-,-,-
 Ceramic capacitor,100n/5watts,05pieces,-,-,-,-,-,-
 Audio lines,link audio to the innovation,05pieces,-,-,-,-,-,-
