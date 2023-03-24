@@ -3,6 +3,7 @@ Transistor,TDA 2030,10pieces,-,-,-,-,-,-
 Capacitor,16v/470uf,10piece,-,-,-,-,-,-
          ,50v0.1uf,10pieces,_,_,_,_,_,_
          ,2A104j,10pieces,_,_,_,_,_,_
+         ,104j,630v,10pieces,_,_,_,_,_,_
 Resistors,330n/2watts,10pieces,-,-,-,-,-,-
          ,1k/2watts,10pieces,-,-,-,-,-,-
          ,47k      ,10pieces,_,_,_,_,_,_
