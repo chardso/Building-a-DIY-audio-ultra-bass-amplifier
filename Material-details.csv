@@ -1,8 +1,8 @@
 Materials, description, Quantity,unit(cost),UG(sh),USD($),totalcost,UG(sh),USD($)
-Transistor,TDA 2030,10pieces,-,-,-,-,-,-
-Capacitor,16v/470uf,10piece,-,-,-,-,-,-
-         ,50v01uf,10pieces,_,_,_,_,_,_
-         ,2A104j,10pieces,_,_,_,_,_,_
+Transistor,TDA 2030,10pieces,5000/=,-,-,-,-,-
+Capacitor,16v/470uf,10piece,5000/=,-,-,-,-,-
+         ,50v01uf,10pieces,5000/=,_,_,_,_,_
+         ,2A104j,10pieces,5000/=,_,_,_,_,_
          ,104j630v,10pieces,_,_,_,_,_,_
          , 25v47uf,10pieces,_,_,_,_,_,_
 Resistors,330n/2watts,10pieces,-,-,-,-,-,-
