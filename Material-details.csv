@@ -1,30 +1,30 @@
 Materials, description, Quantity,rate/unit(cost), cost UG(sh),USD($),totalcost,UG(sh),USD($)
-Transistor,TDA 2030,10pieces,5000/=,-,-,-,-,-
-Capacitor,16v/470uf,10piece,5000/=,-,-,-,-,-
-         ,50v01uf,10pieces,5000/=,_,_,_,_,_
-         ,2A104j,10pieces,5000/=,_,_,_,_,_
-         ,104j630v,10pieces,5000/=,_,_,_,_,_
-         , 25v47uf,10pieces,5000/=,_,_,_,_,_
-Resistors,330n/2watts,10pieces,5000/=,-,-,-,-,-
-         ,1k/2watts,10pieces,5000/=,-,-,-,-,-
-         ,47k      ,10pieces,5000/=,_,_,_,_,_
-         ,100k     ,10pieces,5000/=,_,_,_,_,_
-         ,470ohm   ,10pieces,5000/=,_,_,_,_,_
-         ,100ohm   ,10pieces,5000/=,_,_,_,_,_
-         ,270ohm   ,10pieces,5000/=,_,_,_,_,_
-         ,2A102j   ,10pieces,5000/=,_,_,_,_,_
-Ceramic capacitor,100n,05pieces,5000/=,-,-,-,-,-
-Jumper wire,for looping current,05pieces,3000/=,-,-,-,-,-
-Ceramic capacitor,100n/5watts,05pieces,5000/=,-,-,-,-,-
-Audio lines,link audio to the innovation,05pieces,5000/=,-,-,-,-,-
-Power line input,powering the innovation,05pieces,5000/=,-,-,-,-,-
-Alluminium shock absorber, absorbing the heat produced by TDA 2030,05pieces,2000/=,-,-,-,-,-
-Battery/accumulator,12v/7AH,03pieces,30000/=,-,-,-,-,-
-Bass speaker,500n,05pieces,5000/=,-,-,-,-,-
-Circuit boards,for implementation of the project after innovation,10pieces,5000/=,-,-,-,-,-
+Transistor,TDA 2030,10pieces,5000/=,50000/=,-,-,-,-
+Capacitor,16v/470uf,10piece,5000/=,50000/=,-,-,-,-
+         ,50v01uf,10pieces,5000/=,50000/=,_,_,_,_
+         ,2A104j,10pieces,5000/=,50000/=,_,_,_,_
+         ,104j630v,10pieces,5000/=,50000/=,_,_,_,_
+         , 25v47uf,10pieces,5000/=,50000/=,_,_,_,_
+Resistors,330n/2watts,10pieces,5000/=,50000/=,-,-,-,-
+         ,1k/2watts,10pieces,5000/=,50000/=,-,-,-,-
+         ,47k      ,10pieces,5000/=,50000/=,_,_,_,_
+         ,100k     ,10pieces,5000/=,50000/=,_,_,_,_
+         ,470ohm   ,10pieces,5000/=,50000/=,_,_,_,_
+         ,100ohm   ,10pieces,5000/=,50000/=,_,_,_,_
+         ,270ohm   ,10pieces,5000/=,50000/=,_,_,_,_
+         ,2A102j   ,10pieces,5000/=,50000/=,_,_,_,_
+Ceramic capacitor,100n,05pieces,5000/=,25000/=,-,-,-,-
+Jumper wire,for looping current,05pieces,3000/=,15000/=,-,-,-,-
+Ceramic capacitor,100n/5watts,05pieces,5000/=,25000/=,-,-,-,-
+Audio lines,link audio to the innovation,05pieces,5000/=,25000/=,-,-,-,-
+Power line input,powering the innovation,05pieces,5000/=,25000/=,-,-,-,-
+Alluminium shock absorber, absorbing the heat produced by TDA 2030,05pieces,2000/=,10000/=,-,-,-,-
+Battery/accumulator,12v/7AH,03pieces,30000/=,60000/=,-,-,-,-
+Bass speaker,500n,05pieces,5000/=,25000/=,25000/=,-,-,-
+Circuit boards,for implementation of the project after innovation,10pieces,5000/=,50000/=,-,-,-,-
 Soldering wire,for soldering the components on the circuit board,01roll,25000/=,-,-,-,-,-
-Diode, 1N4148,10pieces,5000/=,_,_,_,_,_
-Diode, 3A    ,10pieces,5000/=,_,_,_,_,_
+Diode, 1N4148,10pieces,5000/=,50000/=,_,_,_,_
+Diode, 3A    ,10pieces,5000/=,50000/=,_,_,_,_
              ,_,_,_,_,_,_,_,_           
              ,TOTAl,_,_,_,_,_,_,_
 
