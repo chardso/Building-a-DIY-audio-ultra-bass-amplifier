@@ -1,4 +1,4 @@
-Materials, description, Quantity,rate/unit(cost), cost UG(sh),USD($),totalcost,UG(sh),USD($)
+Materials, description, Quantity,rate/unit(cost), Sum UG(sh),USD($),totalcost,UG(sh),USD($)
 Transistor,TDA 2030,10pieces,5000/=,50000/=,-,-,-,-
 Capacitor,16v/470uf,10piece,5000/=,50000/=,-,-,-,-
          ,50v01uf,10pieces,5000/=,50000/=,_,_,_,_
