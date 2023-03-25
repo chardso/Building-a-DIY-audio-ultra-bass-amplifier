@@ -1,20 +1,20 @@
-Materials, description, Quantity,unit(cost),UG(sh),USD($),totalcost,UG(sh),USD($)
+Materials, description, Quantity,rate/unit(cost), cost UG(sh),USD($),totalcost,UG(sh),USD($)
 Transistor,TDA 2030,10pieces,5000/=,-,-,-,-,-
 Capacitor,16v/470uf,10piece,5000/=,-,-,-,-,-
          ,50v01uf,10pieces,5000/=,_,_,_,_,_
          ,2A104j,10pieces,5000/=,_,_,_,_,_
-         ,104j630v,10pieces,_,_,_,_,_,_
-         , 25v47uf,10pieces,_,_,_,_,_,_
-Resistors,330n/2watts,10pieces,-,-,-,-,-,-
-         ,1k/2watts,10pieces,-,-,-,-,-,-
-         ,47k      ,10pieces,_,_,_,_,_,_
-         ,100k     ,10pieces,_,_,_,_,_,_
-         ,470ohm   ,10pieces,_,_,_,_,_,_
-         ,100ohm   ,10pieces,_,_,_,_,_,_
-         ,270ohm   ,10pieces,_,_,_,_,_,_
-         ,2A102j   ,10pieces,_,_,_,_,_,_
-Ceramic capacitor,100n,05pieces,-,-,-,-,-,-
-Jumper wire,for looping current,05pieces,-,-,-,-,-,-
+         ,104j630v,10pieces,5000/=,_,_,_,_,_
+         , 25v47uf,10pieces,5000/=,_,_,_,_,_
+Resistors,330n/2watts,10pieces,5000/=,-,-,-,-,-
+         ,1k/2watts,10pieces,5000/=,-,-,-,-,-
+         ,47k      ,10pieces,5000/=,_,_,_,_,_
+         ,100k     ,10pieces,5000/=,_,_,_,_,_
+         ,470ohm   ,10pieces,5000/=,_,_,_,_,_
+         ,100ohm   ,10pieces,5000/=,_,_,_,_,_
+         ,270ohm   ,10pieces,5000/=,_,_,_,_,_
+         ,2A102j   ,10pieces,5000/=,_,_,_,_,_
+Ceramic capacitor,100n,05pieces,5000/=,-,-,-,-,-
+Jumper wire,for looping current,05pieces,3000/=,-,-,-,-,-
 Ceramic capacitor,100n/5watts,05pieces,-,-,-,-,-,-
 Audio lines,link audio to the innovation,05pieces,-,-,-,-,-,-
 Power line input,powering the innovation,05pieces,-,-,-,-,-,-
