@@ -64,6 +64,9 @@
 - tie TDA2030 on the alluminium shock absorber
 - apply soldering wire on its terminals
 - solder the negative terminal of the capacitor 16v,470uf on the first terminal of the TDA from your left
+
+
+
 Twitter's data and API can be used in several ways, such as:
 
 1. Social listening and monitoring: Companies and organizations can use Twitter's API to monitor and analyze tweets related to their brand, products, and industry. This helps them understand the sentiment of their customers and get insights into their preferences and behavior.
